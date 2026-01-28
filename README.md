@@ -49,9 +49,11 @@ just uninstall
 ```
 
 ## Usage
+
 Open **COSMIC Settings → Desktop → Panel → Applets** and add “Cosmic Bluetooth Gamepad” to your panel.
 
 If you have previously paired controllers via system Bluetooth settings and then reconnect the device:
+
 1. Open the applet menu
 2. Find the controller in the paired list
 3. Click the "Reconnect"
