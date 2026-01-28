@@ -2,8 +2,8 @@
 <component type="desktop-application">
   <id>com.keewee.CosmicBluetoothGamepad</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <project_license>MIT</project_license>
-  <name>Pad BL Manager</name>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Cosmic Bluetooth Gamepad</name>
   <summary>Bluetooth controller manager for COSMIC</summary>
   <icon type="stock">cosmic-bluetooth-gamepad</icon>
   <launchable type="desktop-id">com.keewee.CosmicBluetoothGamepad.desktop</launchable>

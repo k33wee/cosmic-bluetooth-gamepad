@@ -7,6 +7,7 @@ COSMIC panel applet for managing Bluetooth game controllers.
 Some controllers (e.g. PlayStation DualSense) does not automatically reconnect after being connected to a different device. This applet aims to solve that by allowing users to easily connect/disconnect controllers and auto-reconnect to previously paired controllers by their MAC address.
 
 Main features:
+
 - Connect/disconnect Bluetooth game controllers
 - View battery level of connected controllers
 - Auto-reconnect to previously paired controllers (This will remove the controller from the system Bluetooth settings, find, pair, trust and connect it automatically when in range)
@@ -48,7 +49,7 @@ just uninstall
 ```
 
 ## Usage
-Open **COSMIC Settings → Desktop → Panel → Applets** and add “Pad BL Manager”.
+Open **COSMIC Settings → Desktop → Panel → Applets** and add “Cosmic Bluetooth Gamepad” to your panel.
 
 If you have previously paired controllers via system Bluetooth settings and then reconnect the device:
 1. Open the applet menu
